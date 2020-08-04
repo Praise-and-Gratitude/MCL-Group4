@@ -1,0 +1,90 @@
+#banner {
+       background-image: url(../images/dark_tint.png), url(../images/bokeh_car_lights_bg.jpg);
+       background-position: center center;
+       background-size: cover;
+       color: #ffffff;
+       padding: 10em 0em 10em;
+       text-align: center;
+}
+
+.imgmcl img {
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+              width: 50%;
+              
+              margin-bottom: 25px;
+            }
+
+
+#footer .container-fluid{background: white;
+       padding: 1em 0em 1em;
+
+}
+
+ul.unstyled {
+       list-style: none;
+       padding-left: 0;
+       
+}
+
+       ul.unstyled li {
+              padding: 0.3em 0;
+              
+       }
+
+
+.contactinfo {
+              
+              display: flex;
+              
+              justify-content: center;
+              }
+
+
+/* One */
+header.major {
+       text-align: center;
+       margin-bottom: 4em;
+}
+
+.wrapper {
+       padding: 6em 0em 4em;
+       /* Style 1 Wrapper */
+       /* Style 2 Wrapper */
+       /* Style 3 Wrapper */
+}
+
+.wrapper.style1 {
+       background-color: #F5F5F5;
+       border-bottom: 1px solid rgba(144, 144, 144, 0.25);
+       border-top: 1px solid rgba(144, 144, 144, 0.25);
+}
+
+.wrapper.style1 .box {
+       background-color: #fff;
+       padding: 3em 2.5em;
+}
+
+.container2-fluid {
+       padding: 2em 0em 2em;
+       background-color: #F5F5F5;
+       border-bottom: 1px solid rgba(144, 144, 144, 0.25);
+       border-top: 1px solid rgba(144, 144, 144, 0.25);
+}
+
+
+/* tes */
+#banner2 {
+       background-image: url(./images/bukuperdana2.png);
+       background-position: center center;
+       background-size: cover;
+       color: #ffffff;
+       
+       text-align: center;
+}
+
+
+p.jarak {
+       line-height: 2;
+     }
